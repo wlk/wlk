@@ -1,8 +1,14 @@
-### Hi there 👋
+Joined Github **11** years ago.
 
-- 🔭 I’m currently working on software
-- 📫 How to reach me: Use email in my GH profile
-- ⚡ Fun fact: Yes, please
+Since then I pushed **3229** commits, opened **60** issues, submitted **105** pull requests, received **64** stars across **93** personal projects and contributed to **14** public repositories.
 
-![wlk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wlk&show_icons=true&theme=radical)
+Most used languages across my projects:
 
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B171.6%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B117.1%25)
+![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B18.9%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.5%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B10.4%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.4%25)
+![CoffeeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23244776&message=CoffeeScript%EF%B8%B10.2%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
